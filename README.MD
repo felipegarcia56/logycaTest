@@ -23,3 +23,4 @@ Previamente a la configuración y despliegue de la API REST es necesario crear l
 
  1. La API rest se ejecuta en el puerto 8000
  2. De ser necesario la API permite administrar las django apps con los usarios creados por el django admin.  
+ 3. En caso de presentar error en la instalación de las dependencia ***psycopg2***, borrarla del archivo requirements.txt instalarla manualmente, para sistemas linux ejecutar el comando ***apt-get install python3-psycopg2*** 
