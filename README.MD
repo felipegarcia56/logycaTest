@@ -4,6 +4,7 @@
  1. Python 3.x
  2. python pip
  3. Django
+ 4. Postgres
  
 ## Base de datos Postgresql
 Previamente a la configuración y despliegue de la API REST es necesario crear la base de datos en el motor de postgres con el nombre ***Logyca_db***.
